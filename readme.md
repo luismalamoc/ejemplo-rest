@@ -1,5 +1,5 @@
-ejemplo-REST
-============
+ejemplo-api-rest
+================
 
 Este es un ejemplo de una API REST hecha con Slim PHP Framework en conjunto con un cliente básico en PHP para consumirla.
 
